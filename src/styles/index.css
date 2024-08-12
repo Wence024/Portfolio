@@ -1,0 +1,40 @@
+body {
+  background-color: #121212; /* Dark background for the entire app */
+  color: #e0e0e0; /* Light text color for contrast */
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: #bb86fc; /* Soft purple for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+.header, .footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #1f1f1f; /* Slightly lighter background for header and footer */
+}
+
+.page {
+  padding: 2rem 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+p {
+  color: #b0b0b0; /* Slightly lighter text for paragraphs */
+}
