@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.4d588dff.css",
-    "main.js": "/MyPortfolio/static/js/main.ebfe1a1d.js",
-    "static/media/S01-Top3Movies.png": "/MyPortfolio/static/media/S01-Top3Movies.1e6b43857f6f153895f1.png",
-    "static/media/A01-FavAlbum.png": "/MyPortfolio/static/media/A01-FavAlbum.e3c84b41cb06c3ae7b01.png",
-    "static/media/MyProfilePic.jpg": "/MyPortfolio/static/media/MyProfilePic.7911e9211be701f0000f.jpg",
-    "static/media/S02-LoanAppForm.png": "/MyPortfolio/static/media/S02-LoanAppForm.8d253d3f36486b53998f.png",
-    "index.html": "/MyPortfolio/index.html",
-    "main.4d588dff.css.map": "/MyPortfolio/static/css/main.4d588dff.css.map",
-    "main.ebfe1a1d.js.map": "/MyPortfolio/static/js/main.ebfe1a1d.js.map"
+    "main.css": "/Portfolio/static/css/main.4d588dff.css",
+    "main.js": "/Portfolio/static/js/main.8c7d2dc5.js",
+    "static/media/S01-Top3Movies.png": "/Portfolio/static/media/S01-Top3Movies.1e6b43857f6f153895f1.png",
+    "static/media/A01-FavAlbum.png": "/Portfolio/static/media/A01-FavAlbum.e3c84b41cb06c3ae7b01.png",
+    "static/media/MyProfilePic.jpg": "/Portfolio/static/media/MyProfilePic.7911e9211be701f0000f.jpg",
+    "static/media/S02-LoanAppForm.png": "/Portfolio/static/media/S02-LoanAppForm.8d253d3f36486b53998f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.4d588dff.css.map": "/Portfolio/static/css/main.4d588dff.css.map",
+    "main.8c7d2dc5.js.map": "/Portfolio/static/js/main.8c7d2dc5.js.map"
   },
   "entrypoints": [
     "static/css/main.4d588dff.css",
-    "static/js/main.ebfe1a1d.js"
+    "static/js/main.8c7d2dc5.js"
   ]
 }
